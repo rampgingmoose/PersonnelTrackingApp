@@ -1,0 +1,6 @@
+C:\Users\strei\OneDrive\Documents\Real GitHub\PersonnelTrackingApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\strei\OneDrive\Documents\Real GitHub\PersonnelTrackingApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\strei\OneDrive\Documents\Real GitHub\PersonnelTrackingApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\strei\OneDrive\Documents\Real GitHub\PersonnelTrackingApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\strei\OneDrive\Documents\Real GitHub\PersonnelTrackingApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\strei\OneDrive\Documents\Real GitHub\PersonnelTrackingApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
